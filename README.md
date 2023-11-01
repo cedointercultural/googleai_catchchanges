@@ -1,2 +1,5 @@
 # googleai_catchchanges
 Assessing climate change impacts on small-scale fisheries using deep learning
+
+Deep learning methods applied to historical catch data can reveal if fish populations are increasing or decreasing, and can help identify the causes of decline, a change in the ocean conditions due to climate change, a shift in fishery populations, or a disrupted supply chain; they can also be used to forecast changes in catch under future climate change scenarios. Models, such as these, that provide information that can be used to increase coastal communities’ resilience to climate change, are urgently needed. Our interdisciplinary team from CMU, Penn State, UABCS, and CEDO will apply AI to develop forecasting models for multi-specific small-scale fisheries in the Northern Gulf of California, to understand possible changes in catch under future climate change scenarios. We will then translate the results to local scale socioeconomic impacts for communities and fisheries within the Puerto Peñasco - Puerto Lobos Coastal Corridor, Sonora Mexico. 
+
